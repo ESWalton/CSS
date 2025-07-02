@@ -1,14 +1,14 @@
 /* Styles for the footer */
 .footer {
-  background-color: #213563;
-  color: #FFFFFF;
+  background-color: #e0e0e0;
+  color: #1a3661;
   text-align: center;
   padding: 20px;
 }
 
 /* Styles for the footer links */
 .footer a {
-  color: #FFFFFF;
+  color: #1a3661;
   text-decoration: none;
   margin: 0 10px;
 }
