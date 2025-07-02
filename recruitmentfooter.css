@@ -1,19 +1,8 @@
 /* Styles for the footer */
 .footer {
   background-color: #e0e0e0;
-  color: #1a3661;
+  color: #595959;
   text-align: center;
   padding: 20px;
-}
-
-/* Styles for the footer links */
-.footer a {
-  color: #1a3661;
-  text-decoration: none;
-  margin: 0 10px;
-}
-
-/* Styles for the footer links on hover */
-.footer a:hover {
-  text-decoration: underline;
+  position: absolute;
 }
